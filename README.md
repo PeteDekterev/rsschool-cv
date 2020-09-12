@@ -1,1 +1,1 @@
-[https://petedekterev.github.io/rsschool-cv/cv](https://petedekterev.github.io/rsschool-cv/cv "petedekterev-cv/cv page")
+[https://petedekterev.github.io/rsschool-cv](https://petedekterev.github.io/rsschool-cv "petedekterev-cv page")
